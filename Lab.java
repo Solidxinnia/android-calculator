@@ -1,5 +1,5 @@
 public class Lab {
-    private int var;
+    private int var, varn;
  
     public int getter() {
         return this.var;
